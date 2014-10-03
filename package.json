@@ -1,0 +1,14 @@
+{
+  "name": "directiv-store-hyper-superagent",
+  "version": "0.1.0",
+  "description": "superagent backend for the hyper store",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^0.18.2"
+  }
+}
